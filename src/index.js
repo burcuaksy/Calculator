@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 import "./styles.css";
 
 function App() {
-  /* eslint no-eval: 0 */
+ 
 
   const [input, setInput] = useState("");
   const calcBtns = [];
